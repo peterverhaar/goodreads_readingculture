@@ -1,0 +1,378 @@
+id	name	location
+13242764	Κωνσταντίνος Τσουρέκης	Athens, 35, Greece
+38238535	Μάριος Δημητριάδης	thessaloniki, Greece
+13580656	Zanet	Greece
+85424364	Andromachi Matsouliadi	Athens, 35, Greece
+6449587	Giota	Athens, 35, Greece
+4742207	Antonia	Greece
+70880419	Nektaria	Greece
+15846472	Margarita	Athens, 35, Greece
+4176514	mark mi	Athens, Greece
+11586258	Eva	Athens, Greece
+81045688	Rena Kapa	Athens, 35, Greece
+63030502	Ria	Thessaloniki, Greece
+48745161	Lida	Athens, 35, Greece
+48746454	Kiriakos	Athens, 35, Greece
+27786001	Angelique_Book_Choices	Athens, 35, Greece
+21487029	Amaryllis Skourla	Brooklyn, NY, Greece
+17304748	Χριστίνα Ψύλλα	Athens, Greece
+106721065	Sea Wolf	Greece
+13556007	Makis Dionis	Athens, Greece
+84200174	Nikos Minopetros	Greece
+63862566	Έλσα	Athens, 35, Greece
+130965182	Hermione	Athens, 35, Greece
+34050297	Maria Thomarey	Greece
+100262233	Danae	Athens, 35, Greece
+8524944	Ioannis Savvas	Thessaloniki, Greece
+90897037	Evanthis Gogoulis	Athens, Greece
+26474448	Litsa Palabouiki	Thessaloníki, 13, Greece
+84620723	Georgia Koulocheri	Athens, 35, Greece
+118133703	luv	Kalamáta, 40, Greece
+67431081	Marik0n reads	Alexandroupolis, Greece
+63753411	Maria	Athens, Greece
+40475612	Γιώργος Δάμτσιος	Νάουσα, Ημαθία, Greece
+94673129	Spiros	Lárisa, 21, Greece
+17767813	Vasilis Manias	Iráklion, 45, Greece
+84919381	Annetius	Giannitsa, Greece
+44100228	Vasiliki Kap.	Athens, 35, Greece
+27370370	Ηλίας Α.	Thessaloniki, Greece
+21456921	Mike Kourouvanis	Kalamata, Greece
+9488830	Αταλάντη Ευριπίδου	Athens, Greece
+16850597	Μαριλένα Pappa	Athens, 35, Greece
+3365005	Yannis Thomadakis	Athens, Greece
+183661	Nikos	Greece
+12821316	Anastasia Kampouridou	Greece
+33133569	Evi Routoula	Athens, 35, Greece
+14898145	Evridiki Amanatidou	Athens, 35, Greece
+62051605	eleni kougkouli	Ioannina, Greece
+157206304	Nick Pats	Thessaloníki, 13, Greece
+13362307	Nikoleta	Athens, Greece
+55572916	Έλλη Δ	Athens, 35, Greece
+52066289	Anthoula	Greece
+63182002	Κωνσταντίνα Ι. Ράπτη	Athens, 35, Greece
+33013130	Nick S.	Athens, 35, Greece
+46260250	Lila Dimaki	Athens, 38, Greece
+93169405	Mihela	Greece
+23633001	roz_anthi	Athens, 35, Greece
+20233956	Μαρία	Σέρρες , Greece
+29176007	Jenny	Athens, Greece
+90172945	Maria Malaki	Thessaloníki, 13, Greece
+14905665	Roula Tsolaki	Ioannina, Greece
+11686634	Χρύσα Αναστασίου	Greece
+71356206	Dionisis Karachalios	Athens, 35, Greece
+16699599	Sofia Silverchild	Athens, Greece
+68223288	Vasilis Philologist	Athens, Greece
+45394480	Ourania Topa	Volos, Greece
+13918929	Доротея Ан	Athens, Greece
+44309339	Chris_P	Kalamata, Greece
+30152365	Marcelle	Athens, Greece
+15674802	Maria	Athens, 35, Greece
+145582539	Fotis Giannousas	Athens, 35, Greece
+64834998	Alexandros Topaloudis	Thessaloniki, Greece
+22722964	Ioanna Xristodoyloy	Greece
+138396161	Michalis Apostolakis	Greece
+58974875	Airam Avitok	Thessaloníki, 13, Greece
+106714435	Antonis Giannoulis	Athens, 35, Greece
+111678684	Magda Tsakiri	Athens, 35, Greece
+85718596	Μαρία Στεφάνου	CORFU, Greece
+58719065	Anastazi_	Athens, Greece
+50712289	Skorofido Skorofido	Athens, Greece
+44128560	Aggeliki Spiliopoulou	Πάτρα, Greece
+46140674	Marialena Hatziioannidi	Greece
+34656123	Konstantinos	Athens, Greece
+44813940	Βασίλειος Ζαγκότας	Serrai, 62122, Greece
+20643658		Athens, Greece
+75631937	Athina Petromichelaki	Athens, 35, Greece
+45574761	Λίνα Θωμάρεη	Athens, 35, Greece
+112090291	Sam Priftakis	Athens, 35, Greece
+27704510	Kostas Gailas	Piraeus, 18536, Greece
+146457430	Vasiliki	Athens, 35, Greece
+42039035	Elena L	Greece
+149034863	Argiro Vatzioli	Thessaloníki, 13, Greece
+56533472	GreekReaders	Greece
+63705569	Thanasis	Athens, Greece
+59351172	Miltiades	Athens, 35, Greece
+6787393	George Petrellis	Thessaloniki, Greece
+9970236	Μελί	Greece
+98614986	Irini Gergianaki	Iraklio, Crete, Greece
+12242956	Olga	Piraeus, Greece
+61219685	Liana Chronea	Athens, Greece
+18434544	Χρύσα Βασιλείου	Elateia, Greece
+6723948	Vasileios	Athens, Greece
+5175961	Zaphirenia	Athens, Greece
+52045352	Tim Orfanos	Athens, Greece
+94163260	Eirini	Athens, Greece
+7637828	Vasilis Kanatas	Delphi, Greece
+29067757	Maria Aravani	Athens, 35, Greece
+107201949	Thanos Andritsos	Greece
+62431364		Greece
+151551102	Μάριος  Κούτσικος	Greece
+61518067	Vera	Athens, 35, Greece
+8438665	Themis Papandreou	X, 03, Greece
+31201595	Alexander Theofanidis	Athens, Greece
+60493209	Άννα Σπανογιώργου	Thessaloníki, 13, Greece
+105935925	Raphaela Folia	Kos, 47, Greece
+22899581	Χ. ΚΟΥΡΟΥΠΑΚΗ	ΑΙΓΑΛΕΩ, Greece
+11469570	Μαρία	Athens, 35, Greece
+24191363	Tia Tita	Athens, 35, Greece
+20031422	Infada Spain	Athens, 35, Greece
+63453794	Chaido Rizou (Lentza-Rizos)	Greece
+131187237	Christina Katsaromitsou	Athens, 13, Greece
+162176361	Eleni Traga	Greece
+19797545	Χριστίνα Νίκα	Athens, 35, Greece
+81539927	Γρηγόρης Δημακόπουλος	Καρδίτσα, Greece
+176148489	Stephania Triantafillou	Greece
+26643606	Νατάσα Παυλίτσεβιτς	Thessaloniki, 03, Greece
+20187949	Jenny Fygetaki	Athens, 35, Greece
+45425869	KIRIAKI(Dominica Amat)	Athens, 35, Greece
+32604377	Χρύσα Γιαννοπούλου	Greece
+34830194	Mary-jane	Athens, 35, Greece
+81534634	Philippos Zournatjis	Thessaloníki, 13, Greece
+7295702	Κατερίνα Μαλακατέ	Athens, 35, Greece
+110181518	Betty Chatzisavvidou	Síros, 49, Greece
+51299088	Ε.Χ.Γ. ☕	Greece
+99538042	Blondie	Kalamáta, 40, Greece
+34545435	Ελένη Παπάζογλου	Thessaloniki, Greece
+4325740	Xristina Hodor'i	Greece
+60603923	Aggeliki	Greece
+80509129	Μαρία  Ντάμπου	Κοζάνη, Greece
+32212725	Marianna	Athens, Greece
+156968784	Maria	Athens, 35, Greece
+6353468	Georgia Kakalopoulou	Katerini, 13, Greece
+22637662	Azy Gouziou	Greece
+48744795	Petros.Sev.	Athens, 35, Greece
+17684709	Elsa Athanasiadou	THESSALONIKI, Greece
+129321438	fadedbookpages	Greece
+43256764	Yorgos Economu	Corfu, Greece
+167182163	Nef	Athens, 35, Greece
+107631927	Marianna Sharktooth	Greece
+124977905	Αθηνά Μαλαπάνη	Athens, 35, Greece
+52388177	Georges Varanx	Litochoro, Greece
+100683075	Κωνσταντίνος	Athens, Greece
+102280455	Marianna Dimeli Sparidou	Greece
+101077284	Stefanos D.	Athens, 35, Greece
+22487087	Periklis Vlachos	Greece
+30849358	Anastasia	Greece
+19705183	Dimitris Passas (TapTheLine)	Athens, 35, Greece
+11201917	Ellie-Joy	Véroia, 12, Greece
+23510761	Γιώργος Γιώτσας	Athens, Greece
+91877099	Book2chance	Thessaloníki, 13, Greece
+24045929	Nancy Siouri	Greece
+151291027	Lia《☆⊙|⊙☆》	Thessaloníki, 13, Greece
+65658730	Μαρία Ζαχαριάδου	Athens, 35, Greece
+5014021	Katerina	Athens, 35, Greece
+109888811	Myrto Papatheodorou	Zákynthos, 28, Greece
+82592349	Denia Chrisopoulou	Greece
+9723529	Φαροφύλακας	Greece
+7818344	Jason	Athens, Greece
+27868161	Νεκτάριος Καλογήρου	Greece
+154552628	Theofania	Thessaloníki, 13, Greece
+145721665	Makis Tsivelekos	Athens, 35, Greece
+158911058	Κωστής Βαρεμενος	Lárisa, 21, Greece
+64039040	AnthouG	Cephallonia, 35, Greece
+82279401	Mary Kaimatzoglou	Athens, Greece
+130261381	Elena Papadiotou	Greece
+23593079	Ioannis	Greece
+14244706	Yanper	Chalkis, 34100, Greece
+52054138	Pinko Palest	Athens, Greece
+84668663	Jiannis	Athens, 35, Greece
+41673753	Maria Papadaki	Athens, 35, Greece
+59726530	GiannisKlados	Komotiní, 02, Greece
+62004339	Georgina Pozidi	Athens, Greece
+86483177	Maria Fanouraki	Crete, Greece
+133024719	elena (Taylor’s version)	Athens, 35, Greece
+131144496	Στέφανος Αλεξιάδης	Thessaloníki, Greece
+13056902	. . . _ _ _ . . .	Greece
+116756387	Argiris Fakkas	Athens, 35, Greece
+25631473	Μανώλης Σιμιτσάκης	Athens, Greece
+132658785	Danae	Athens, 35, Greece
+3456763	David Gallagher	Thessaloniki, Greece
+88749165	Βαγγέλης Ιωσηφίδης	Drama, Greece
+107709642	Nick Christopher	Athens, 35, Greece
+58319411	Grigoria Drosopoulou	Θεσσαλονίκη, Greece
+113992325	Sofia	Athens, 35, Greece
+62559561	Δημήτρης Κώτσος	Athens, 14, Greece
+6984857	Petros	Thessaloniki, 57300, Greece
+40028166	Nikoletta	Thessaloniki, 22, Greece
+21810947	Σταύρος Παυλίδης	Thessaloníki, 13, Greece
+74012307	Dora	Vólos, 24, Greece
+14188408	Γιώργος Λιαδής	Athens, 18345, Greece
+146556445	Αγγελική	Athens, 35, Greece
+21286701	Κώστας	Patra, Greece
+66903315	Αντώνης Καρβελάς	Athens, Greece
+3098170	Lambros78	Athens, 35, Greece
+104284363	Λυδία Θεοχάρη	Greece
+30239102	Giorgia Matzoula	Greece
+6302365	Ραδάμανθυς Φωτόπουλος	Αθήνα, Greece
+52530645	Giorgos Xekalakis	Athens, 35, Greece
+93449598	Ασπα Τοπαλιδου	Keratsíni, 35, Greece
+33767336	Stratos	Lesvos, 81100, Greece
+19696241	Βίκυ Κατσαρού	Athens, Greece
+115656432	Ath.Bous	Greece
+13356961	Angelica	Athens, Greece
+103431877	Foteini	Thessaloníki, 13, Greece
+110088293	Efi	Greece
+27580139	Margaret	Athens, 35, Greece
+48746006	Magda	Athens, 35, Greece
+4643358	Dimitris Hall	Athens, Greece
+38373039	Αθανασιος	Athens, 35, Greece
+125720543	Charis Eleftheriadis	Athens, 35, Greece
+62576740	Μαρία Αλεξοπούλου	Athens, Greece
+25046337	Effrosyni Moschoudi	Athens, Greece
+18528358	Jiolanda Kalofolia	Athens, 35, Greece
+29110703	Maritina Mela	Greece
+11648309	Ευθυμία Δεσποτάκη	Athens, Greece
+99939478	Krinio Birou	Greece
+103518607	Δήμος Καραχάλιος	Kavala, Greece
+31813574	Maria Patra	Greece
+92307552	Mary Pop	Mytilene, 51, Greece
+27065590	Nefeli G	Athens, 35, Greece
+24958265	Anna Pasaliadi	Athens, 35, Greece
+28514055	Stauros Kallinikas	Greece
+5850775	Konna	Greece
+74017269	Leonidas Moumouris	Amorgos, Greece
+73636846	Macropsalis	Greece
+100047274	Dimitris Nikou	Greece
+11956711	Natassa	Athens, 35, Greece
+6462583	Vichy	Athens, Greece
+76653343	Dimitra	Athens, Greece
+82157808	Lito	Athens, Greece
+79582874	Anthi	Athens, Greece
+31299893	Liberis	Athens, Attica, Greece
+23728890	Antonio Papadourakis	Athens, 35, Greece
+16500960	Maria Bikaki	chania, 35, Greece
+148145827	Vasilis F.	Greece
+29193989	Georgette Nanou	Thessaloníki, 13, Greece
+104293630	Yiota Christopoulos	Thessaloníki, 13, Greece
+12338212	Lilly	Athens, Greece
+18940246	Sotiris Karaiskos	Lazarina, Kardhitsa, Greece
+5953053	Vicky Ziliaskopoulou	Alexandroupolis, Greece
+8935458	Giannis Karageorgos	Athens, 35, Greece
+70805244	bookellenic	Greece
+161029107	Kathrine	Greece
+152769795	Nelly3	Greece
+28356560	Odysseas	Athens, 35, Greece
+12819143	Dimitris Zacharias	ΘΗΒΑ, Βοιωτίας, Greece
+124636434	Fotini	Lárisa, 21, Greece
+48060854	Petros Sarantakis	Athens, Attica, Greece
+94479559	Nikolas Banos	Corfu, Greece
+168957828	Lou	Greece
+9830594	Georgia  Zarkadaki	Athens, 35, Greece
+150890781	Nikos Chaldogeridis	Athens, 35, Greece
+27607003	Δήμητρα Κόμτσια	Vólos, 24, Greece
+159529443	Manos Kovras	Greece
+83149711	Akis N.	Athens, 35, Greece
+50996666	Miltos S.	Volos, Greece
+147005267	BitsA56	Athens, 35, Greece
+11586431	Nasia	Thessaloníki, Greece
+60133643	Virginia	Athens, 35, Greece
+66797746	Spiros Giovanis	Greece
+78248573	Leftheris Bousdoukis	Thessaloníki, 55133, Greece
+50333187	Χριστίνα Κωνσταντουδάκη	Greece
+10479337	Maria Stefanou	Greece
+150716706	marv	Greece
+23206594	Σπυροπούλου	Thessaloníki, 13, Greece
+159401252	Eirini Ele	Lefkáda, 26, Greece
+4675995	George K.	Athens, 35, Greece
+5877131	Katrin	Athens, Greece
+117154574	-lovieta	Pátra, 38, Greece
+176794985	Ελευθερία Τριανταφυλλίδου	Greece
+84330812	Ornela1982	Athens, 35, Greece
+84501894	Paraskevi	Athens, 35, Greece
+20286570	M.M. Jaye	Athens, Greece
+124120191	Nena	Thessaloníki, 13, Greece
+92171080	Antonis Tzortzakakis	Athens, 35, Greece
+34560669	Zoi Gkatziona	Larisa, Greece
+62505781	Stavrakas Arsenal	Naousa, Greece
+154488266	AnD	Greece
+46058585	Eliasdgian	Athens, Greece
+26904921	Constantina	Athens, Greece
+39890407	Eirini Kefalianou	Athens, 35, Greece
+21661246	MOYlara	Athens, 35, Greece
+63739007	Georgia Kritikou	Patras, 38, Greece
+25493366	Hélène	Greece
+72008071	Christina	Thessaloníki, Greece
+25784649	Katrin	Greece
+49466151	Giovanni Sps	Corfu, Greece
+164936550	Katia Kyriazi	Keratsíni, 35, Greece
+44828677	Giorgos  M.	Larissa, 35, Greece
+60373333	Andy_liakopoulou	Athens, 35, Greece
+12340440	Angeliki Yiakoumaki	Athens, 35, Greece
+35275984	Χρήστος Αναστασόπουλος	Athens, 35, Greece
+21664263	B. Faye	Thessaloniki, Greece
+21180355	Eirini Proikaki	Athens, 35, Greece
+142859736	Christos T. (book__yourself)	Veria, 35, Greece
+74751826	Elsa Pazolidou	Greece
+12179669	Argiro Charitou	Thessaloníki, 13, Greece
+2825517	Anna	Athens, 35, Greece
+58907062	Stauroula Panagopoulou	Athens, 24, Greece
+67194370	Stroumfita	Athens, 35, Greece
+50910499	Olga Konstantopoulou	Athens, 35, Greece
+152427551	DiTh	Spárti, 42, Greece
+19410610	Μαρία Γεωργιάδου	Thessaloníki, Greece
+47139872	Mohikanos	Athens, 35, Greece
+11702115	Σουζάνα Χατζηνικολάου	Athens, Greece
+27366724	Anastasia Emel	Athens, 35, Greece
+45130586	Sailaway	Greece
+94513123	Aikaterini Maritsa	Heraklion, 45, Greece
+4896256	Demetra	Larisa, Greece
+160463798	Andreas Tychalas	Sérres, 05, Greece
+6922983	Lena	Athens, Greece
+75871745	Maria	Athens, 35, Greece
+4139191	Rania Giakoumaki	Athens, Greece
+43040512	Evripidis Gousiaris	Thessaloniki, 35, Greece
+55073616	Bill	Athens, 35, Greece
+115761563	Katerina	Greece
+10178527	Stella	Greece
+29576039	Dimitra	Piraeus, Greece
+89809604	Νίκος Vitoliotis)	Greece
+5309089	Φειδίας Μπουρλάς	Athens, Greece
+32621628	vagia	Πτολεμαϊδα, Greece
+50331874	Alexandra Ameladioti	THESSALONIKI, 35, Greece
+59629284	Katerina Efstathiou	Volos, Greece
+53132473	Seezo	Athens, 35, Greece
+102091398	Michalis Manassakis	Greece
+140281045	Constantina Afali	Kos, 47, Greece
+159085677	Χριστίνα Γεωργίου	Thessaloníki, 13, Greece
+37334157	Tzenaki Em	Greece
+34083413	Iliana	Athens, 35, Greece
+162131535	Maroulapoly	Greece
+18750638	Dimitris	Athens, Attica, Greece
+27475923	Asimenia Phantasmagoria	Athens, 35, Greece
+82005484	KONSTANTINOS ANASTASILAKIS	Greece
+169338778	Eleni Apostolopoulou	Greece
+102661422	Argy M.	Athens, 35, Greece
+50937787	Sophia T	Athens, 35, Greece
+45871202	Sarandis Kouvousis	Athens, Greece
+3975543	Lena	Greece, Athens, Greece
+31046568	Michael Strigkos	Greece
+160278480	matina	Athens, 35, Greece
+58976110	Eirini D	Corfu, 35, Greece
+75674545	Μαρία Βλαχοδήμου	Thessaloniki, Greece
+70205554	Theofanis Kalevras	Athens, 35, Greece
+36072326	Lucifer Morningstar	ΑΘΗΝΑ, Greece
+33193128	Μaria Vrisanaki	Heraklion, 45, Greece
+111264536	Μαίρη	thessaloniki, 35, Greece
+57376580	Eirini Zazani	Athens, 35, Greece
+81253260	Σταύρος Θάνος	Greece
+32846281	Rita Milou	Athens, Greece
+48824606	foteini_dl	Athens, Greece
+15886470	Marilou K.	Greece
+91535259	Nafsika Stef	Greece
+54156838	Nikos	Athens, Greece
+30934278	Helena	Athens, 35, Greece
+38697931	Nefeli	Athens, Greece
+33848386	Xenia Makri	Thessaloniki, Greece
+52353336	Electravox	Athens, 35, Greece
+83613977	Margianna	Greece
+35986201	Johnny Notte	Thessaloniki, 31, Greece
+8568177	Γιώτα Παπαδημακοπούλου	Athens, Greece
+34151230	Eleftherios Mandalianos	Thessaloníki, 13, Greece
+22814838	Miltiadis Michalopoulos	Athens, 35, Greece
+7253517	Μιχάλης	Athens, 35, Greece
+98781702	Gkats5513	Athens, 11636, Greece
+49147797	Marina	Athens, 35, Greece
+12602244	Aggeliki	Athens, 35, Greece
+150269964	Νικολέττα	Athens, Greece
+74524021	Ευα Μηλιά  Κουτσουμπα	Athens, 35, Greece
+8629568	Tasos	Athens, 35, Greece
