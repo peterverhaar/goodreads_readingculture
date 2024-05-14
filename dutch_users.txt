@@ -1,5 +1,4 @@
-id
-name	location
+id	name	location
 174123544	Job Aarts	Amsterdam, 07, Netherlands
 137770865	Jan	Arnhem, 03, Netherlands
 154359408	Sandwich  :)	Den Haag, 11, Netherlands
